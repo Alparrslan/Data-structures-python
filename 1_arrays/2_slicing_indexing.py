@@ -1,7 +1,6 @@
-"""
-2_slicing_indexing.py
-List slicing and indexing techniques: slice, step, negative indices, sublists, combinations
-"""
+
+## List slicing and indexing techniques: slice, step, negative indices, sublists, combinations
+
 
 def get_element(lst, index):
     return lst[index]
