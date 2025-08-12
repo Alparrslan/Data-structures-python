@@ -1,4 +1,6 @@
+
 ## Working with 2D and nested lists: access, modify, flatten, transpose, row/col extraction
+
 
 def create_2d_array():
     return [[1, 2], [3, 4], [5, 6]]
